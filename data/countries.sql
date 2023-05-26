@@ -1,197 +1,197 @@
-INSERT INTO "countries" VALUES (1,'L','AF','Afghanistan','Asie');
-INSERT INTO "countries" VALUES (2,'L','ZA','Afrique du Sud','Afrique');
-INSERT INTO "countries" VALUES (3,'L','AL','Albanie','Europe');
-INSERT INTO "countries" VALUES (4,'L','DZ','Algérie','Afrique');
-INSERT INTO "countries" VALUES (5,'L','DE','Allemagne','Europe');
-INSERT INTO "countries" VALUES (6,'L','AD','Andorre','Europe');
-INSERT INTO "countries" VALUES (7,'L','AO','Angola','Afrique');
-INSERT INTO "countries" VALUES (8,'L','AG','Antigua-et-Barbuda','Amerique');
-INSERT INTO "countries" VALUES (9,'L','SA','Arabie Saoudite','Asie');
-INSERT INTO "countries" VALUES (10,'L','AR','Argentine','Amerique');
-INSERT INTO "countries" VALUES (11,'L','AM','Arménie','Asie');
-INSERT INTO "countries" VALUES (12,'L','AU','Australie','Oceanie');
-INSERT INTO "countries" VALUES (13,'L','AT','Autriche','Europe');
-INSERT INTO "countries" VALUES (14,'L','AZ','Azerbaïdjan','Asie');
-INSERT INTO "countries" VALUES (15,'Les','BS','Bahamas','Amerique');
-INSERT INTO "countries" VALUES (16,NULL,'BH','Bahreïn','Asie');
-INSERT INTO "countries" VALUES (17,'Le','BD','Bangladesh','Asie');
-INSERT INTO "countries" VALUES (18,'La','BB','Barbade','Amerique');
-INSERT INTO "countries" VALUES (19,'La','BE','Belgique','Europe');
-INSERT INTO "countries" VALUES (20,'Le','BZ','Belize','Amerique');
-INSERT INTO "countries" VALUES (21,'Le','BY','Bélarus','Europe');
-INSERT INTO "countries" VALUES (22,'Le','BJ','Bénin','Afrique');
-INSERT INTO "countries" VALUES (23,'Le','BT','Bhoutan','Asie');
-INSERT INTO "countries" VALUES (24,'La','MM','Birmanie','Asie');
-INSERT INTO "countries" VALUES (25,'La','BO','Bolivie','Amerique');
-INSERT INTO "countries" VALUES (26,'La','BA','Bosnie-Herzégovine','Europe');
-INSERT INTO "countries" VALUES (27,'Le','BW','Botswana','Afrique');
-INSERT INTO "countries" VALUES (28,'Le','BR','Brésil','Amerique');
-INSERT INTO "countries" VALUES (29,'Le','BN','Brunei','Asie');
-INSERT INTO "countries" VALUES (30,'La','BG','Bulgarie','Europe');
-INSERT INTO "countries" VALUES (31,'Le','BF','Burkina Faso','Afrique');
-INSERT INTO "countries" VALUES (32,'Le','BI','Burundi','Afrique');
-INSERT INTO "countries" VALUES (33,'Le','KH','Cambodge','Asie');
-INSERT INTO "countries" VALUES (34,'Le','CM','Cameroun','Afrique');
-INSERT INTO "countries" VALUES (35,'Le','CA','Canada','Amerique');
-INSERT INTO "countries" VALUES (36,'Le','CV','Cap-Vert','Afrique');
-INSERT INTO "countries" VALUES (37,'La','CF','République Centrafricaine','Afrique');
-INSERT INTO "countries" VALUES (38,'Le','CL','Chili','Amerique');
-INSERT INTO "countries" VALUES (39,'La','CN','Chine','Asie');
-INSERT INTO "countries" VALUES (40,'Le','CY','Chypre','Asie');
-INSERT INTO "countries" VALUES (41,'La','CO','Colombie','Amerique');
-INSERT INTO "countries" VALUES (42,'Le','KM','Comores','Afrique');
-INSERT INTO "countries" VALUES (43,'Le','CG','Congo','Afrique');
-INSERT INTO "countries" VALUES (44,'La','CD','République Démocratique du Congo','Afrique');
-INSERT INTO "countries" VALUES (45,'La','KP','Corée du Nord','Asie');
-INSERT INTO "countries" VALUES (46,'La','KR','Corée du Sud','Asie');
-INSERT INTO "countries" VALUES (47,'Le','CR','Costa Rica','Amerique');
-INSERT INTO "countries" VALUES (48,'La','CI','Côte d''Ivoire','Afrique');
-INSERT INTO "countries" VALUES (49,'La','HR','Croatie','Europe');
-INSERT INTO "countries" VALUES (50,NULL,'CU','Cuba','Amerique');
-INSERT INTO "countries" VALUES (51,'Le','DK','Danemark','Europe');
-INSERT INTO "countries" VALUES (52,NULL,'DJ','Djibouti','Afrique');
-INSERT INTO "countries" VALUES (53,'La','DM','Dominique','Amerique');
-INSERT INTO "countries" VALUES (54,'La','DO','République dominicaine','Amerique');
-INSERT INTO "countries" VALUES (55,'L','EG','Égypte','Afrique');
-INSERT INTO "countries" VALUES (56,'Les','EH','Émirats arabes unis','Asie');
-INSERT INTO "countries" VALUES (57,'L','EC','Équateur','Amerique');
-INSERT INTO "countries" VALUES (58,'L','ER','Érythrée','Afrique');
-INSERT INTO "countries" VALUES (59,'L','ES','Espagne','Europe');
-INSERT INTO "countries" VALUES (60,'L','EE','Estonie','Europe');
-INSERT INTO "countries" VALUES (61,'L','SZ','Eswatini','Afrique');
-INSERT INTO "countries" VALUES (62,'Les','US','États-Unis','Amerique');
-INSERT INTO "countries" VALUES (63,'L','ET','Éthiopie','Afrique');
-INSERT INTO "countries" VALUES (64,'Les','FJ','Fidji','Oceanie');
-INSERT INTO "countries" VALUES (65,'La','FI','Finlande','Europe');
-INSERT INTO "countries" VALUES (66,'La','FR','France','Europe');
-INSERT INTO "countries" VALUES (67,'Le','GA','Gabon','Afrique');
-INSERT INTO "countries" VALUES (68,'La','GM','Gambie','Afrique');
-INSERT INTO "countries" VALUES (69,'La','GE','Géorgie','Asie');
-INSERT INTO "countries" VALUES (70,'Le','GH','Ghana','Afrique');
-INSERT INTO "countries" VALUES (71,'La','GR','Grèce','Europe');
-INSERT INTO "countries" VALUES (72,'La','GD','Grenade','Amerique');
-INSERT INTO "countries" VALUES (73,'Le','GT','Guatemala','Amerique');
-INSERT INTO "countries" VALUES (74,'La','GN','Guinée','Afrique');
-INSERT INTO "countries" VALUES (75,'La','GW','Guinée-Bissau','Afrique');
-INSERT INTO "countries" VALUES (76,'La','GQ','Guinée équatoriale','Afrique');
-INSERT INTO "countries" VALUES (77,'Le','GY','Guyana','Amerique');
-INSERT INTO "countries" VALUES (78,NULL,'HT','Haïti','Amerique');
-INSERT INTO "countries" VALUES (79,'Le','HN','Honduras','Amerique');
-INSERT INTO "countries" VALUES (80,'La','HU','Hongrie','Europe');
-INSERT INTO "countries" VALUES (81,'Les','CK','Îles Cook','Oceanie');
-INSERT INTO "countries" VALUES (82,'Les','SB','Îles Salomon','Oceanie');
-INSERT INTO "countries" VALUES (83,'L','IN','Inde','Asie');
-INSERT INTO "countries" VALUES (84,'L','ID','Indonésie','Asie');
-INSERT INTO "countries" VALUES (85,'L','IQ','Irak','Asie');
-INSERT INTO "countries" VALUES (86,'L','IR','Iran','Asie');
-INSERT INTO "countries" VALUES (87,'L','IE','Irlande','Europe');
-INSERT INTO "countries" VALUES (88,'L','IS','Islande','Europe');
-INSERT INTO "countries" VALUES (89,NULL,'IL','Israël','Asie');
-INSERT INTO "countries" VALUES (90,'L','IT','Italie','Europe');
-INSERT INTO "countries" VALUES (91,'La','JM','Jamaïque','Amerique');
-INSERT INTO "countries" VALUES (92,'Le','JP','Japon','Asie');
-INSERT INTO "countries" VALUES (93,'La','KE','Jordanie','Asie');
-INSERT INTO "countries" VALUES (94,'Le','KZ','Kazakhstan','Asie');
-INSERT INTO "countries" VALUES (95,'Le','KE','Kenya','Afrique');
-INSERT INTO "countries" VALUES (96,'Le','KG','Kirghizistan','Asie');
-INSERT INTO "countries" VALUES (97,NULL,'KI','Kiribati','Oceanie');
-INSERT INTO "countries" VALUES (98,'Le','KW','Koweït','Asie');
-INSERT INTO "countries" VALUES (99,'Le','LA','Laos','Asie');
-INSERT INTO "countries" VALUES (100,'Le','LS','Lesotho','Afrique');
-INSERT INTO "countries" VALUES (101,'La','LV','Lettonie','Europe');
-INSERT INTO "countries" VALUES (102,'Le','LB','Liban','Asie');
-INSERT INTO "countries" VALUES (103,'Le','LR','Liberia','Afrique');
-INSERT INTO "countries" VALUES (104,'La','LY','Libye','Afrique');
-INSERT INTO "countries" VALUES (105,'Le','LI','Liechtenstein','Europe');
-INSERT INTO "countries" VALUES (106,'La','LT','Lituanie','Europe');
-INSERT INTO "countries" VALUES (107,'Le','LU','Luxembourg','Europe');
-INSERT INTO "countries" VALUES (108,'La','MK','Macédoine du Nord','Europe');
-INSERT INTO "countries" VALUES (109,NULL,'MG','Madagascar','Afrique');
-INSERT INTO "countries" VALUES (110,'La','MY','Malaisie','Asie');
-INSERT INTO "countries" VALUES (111,'Le','MW','Malawi','Afrique');
-INSERT INTO "countries" VALUES (112,'Les','MV','Maldives','Asie');
-INSERT INTO "countries" VALUES (113,'Le','ML','Mali','Afrique');
-INSERT INTO "countries" VALUES (114,NULL,'MT','Malte','Europe');
-INSERT INTO "countries" VALUES (115,'Le','MA','Maroc','Afrique');
-INSERT INTO "countries" VALUES (116,'Les','MH','Marshall','Oceanie');
-INSERT INTO "countries" VALUES (117,NULL,'MU','Maurice','Afrique');
-INSERT INTO "countries" VALUES (118,'La','MR','Mauritanie','Afrique');
-INSERT INTO "countries" VALUES (119,'Le','MX','Mexique','Amerique');
-INSERT INTO "countries" VALUES (120,'La','FM','Micronésie','Oceanie');
-INSERT INTO "countries" VALUES (121,'La','MD','Moldavie','Europe');
-INSERT INTO "countries" VALUES (122,NULL,'MC','Monaco','Europe');
-INSERT INTO "countries" VALUES (123,'La','MN','Mongolie','Asie');
-INSERT INTO "countries" VALUES (124,'Le','ME','Monténégro','Europe');
-INSERT INTO "countries" VALUES (125,'Le','MZ','Mozambique','Afrique');
-INSERT INTO "countries" VALUES (126,'La','NA','Namibie','Afrique');
-INSERT INTO "countries" VALUES (127,NULL,'NR','Nauru','Oceanie');
-INSERT INTO "countries" VALUES (128,'Le','NP','Népal','Asie');
-INSERT INTO "countries" VALUES (129,'Le','NI','Nicaragua','Amerique');
-INSERT INTO "countries" VALUES (130,'Le','NE','Niger','Afrique');
-INSERT INTO "countries" VALUES (131,'Le','NG','Nigeria','Afrique');
-INSERT INTO "countries" VALUES (132,NULL,'NU','Niue','Oceanie');
-INSERT INTO "countries" VALUES (133,'La','NO','Norvège','Europe');
-INSERT INTO "countries" VALUES (134,'La','NZ','Nouvelle-Zélande','Oceanie');
-INSERT INTO "countries" VALUES (135,'L','OM','Oman','Asie');
-INSERT INTO "countries" VALUES (136,'L','UG','Ouganda','Afrique');
-INSERT INTO "countries" VALUES (137,'L','UZ','Ouzbékistan','Asie');
-INSERT INTO "countries" VALUES (138,'Le','PK','Pakistan','Asie');
-INSERT INTO "countries" VALUES (139,'Les','PW','Palaos','Oceanie');
-INSERT INTO "countries" VALUES (140,'La','PS','Palestine','Asie');
-INSERT INTO "countries" VALUES (141,'Le','PA','Panama','Amerique');
-INSERT INTO "countries" VALUES (142,'La','PG','Papouasie-Nouvelle-Guinée','Oceanie');
-INSERT INTO "countries" VALUES (143,'Le','PY','Paraguay','Amerique');
-INSERT INTO "countries" VALUES (144,'Les','NL','Pays-Bas','Europe');
-INSERT INTO "countries" VALUES (145,'Le','PE','Pérou','Amerique');
-INSERT INTO "countries" VALUES (146,'Les','PH','Philippines','Asie');
-INSERT INTO "countries" VALUES (147,'La','PL','Pologne','Europe');
-INSERT INTO "countries" VALUES (148,'Le','PT','Portugal','Europe');
-INSERT INTO "countries" VALUES (149,'Le','QA','Qatar','Asie');
-INSERT INTO "countries" VALUES (150,'La','RO','Roumanie','Europe');
-INSERT INTO "countries" VALUES (151,'Le','GB','Royaume-Uni','Europe');
-INSERT INTO "countries" VALUES (152,'La','RU','Russie','Europe');
-INSERT INTO "countries" VALUES (153,'Le','RW','Rwanda','Afrique');
-INSERT INTO "countries" VALUES (154,NULL,'KN','Saint-Christophe-et-Niévès','Amerique');
-INSERT INTO "countries" VALUES (155,NULL,'LC','Sainte-Lucie','Amerique');
-INSERT INTO "countries" VALUES (156,NULL,'SM','Saint-Marin','Europe');
-INSERT INTO "countries" VALUES (157,NULL,'VC','Saint-Vincent-et-les-Grenadines','Amerique');
-INSERT INTO "countries" VALUES (158,'Le','SV','Salvador','Amerique');
-INSERT INTO "countries" VALUES (159,'Le','SO','Samoa','Oceanie');
-INSERT INTO "countries" VALUES (160,NULL,'ST','Sao Tomé-et-Principe','Afrique');
-INSERT INTO "countries" VALUES (161,'Le','SN','Sénégal','Afrique');
-INSERT INTO "countries" VALUES (162,'La','RS','Serbie','Europe');
-INSERT INTO "countries" VALUES (163,'Les','SC','Seychelles','Afrique');
-INSERT INTO "countries" VALUES (164,'La','SL','Sierra Leone','Afrique');
-INSERT INTO "countries" VALUES (165,NULL,'SG','Singapour','Asie');
-INSERT INTO "countries" VALUES (166,'La','SK','Slovaquie','Europe');
-INSERT INTO "countries" VALUES (167,'La','SI','Slovénie','Europe');
-INSERT INTO "countries" VALUES (168,'La','SO','Somalie','Afrique');
-INSERT INTO "countries" VALUES (169,'Le','SD','Soudan','Afrique');
-INSERT INTO "countries" VALUES (170,'Le','SS','Soudan du Sud','Afrique');
-INSERT INTO "countries" VALUES (171,NULL,'LK','Sri Lanka','Asie');
-INSERT INTO "countries" VALUES (172,'La','SE','Suède','Europe');
-INSERT INTO "countries" VALUES (173,'La','CH','Suisse','Europe');
-INSERT INTO "countries" VALUES (174,'Le','SR','Suriname','Amerique');
-INSERT INTO "countries" VALUES (175,'La','SY','Syrie','Asie');
-INSERT INTO "countries" VALUES (176,'Le','TJ','Tadjikistan','Asie');
-INSERT INTO "countries" VALUES (177,'La','TZ','Tanzanie','Afrique');
-INSERT INTO "countries" VALUES (178,'Le','TD','Tchad','Afrique');
-INSERT INTO "countries" VALUES (179,'La','CZ','Tchéquie','Europe');
-INSERT INTO "countries" VALUES (180,'La','TH','Thaïlande','Asie');
-INSERT INTO "countries" VALUES (181,'Le','TL','Timor-Oriental','Asie');
-INSERT INTO "countries" VALUES (182,'Le','TG','Togo','Afrique');
-INSERT INTO "countries" VALUES (183,'Les','TO','Tonga','Oceanie');
-INSERT INTO "countries" VALUES (184,NULL,'TT','Trinité-et-Tobago','Amerique');
-INSERT INTO "countries" VALUES (185,'La','TN','Tunisie','Afrique');
-INSERT INTO "countries" VALUES (186,'Le','TM','Turkménistan','Asie');
-INSERT INTO "countries" VALUES (187,'La','TR','Turquie','Europe');
-INSERT INTO "countries" VALUES (188,'Les','TV','Tuvalu','Oceanie');
-INSERT INTO "countries" VALUES (189,'L','UA','Ukraine','Europe');
-INSERT INTO "countries" VALUES (190,'L','UY','Uruguay','Amerique');
-INSERT INTO "countries" VALUES (191,'Le','VU','Vanuatu','Oceanie');
-INSERT INTO "countries" VALUES (192,'Le','VA','Vatican','Europe');
-INSERT INTO "countries" VALUES (193,'Le','VE','Venezuela','Amerique');
-INSERT INTO "countries" VALUES (194,'Le','VN','Viêt Nam','Asie');
-INSERT INTO "countries" VALUES (195,'Le','YE','Yémen','Asie');
-INSERT INTO "countries" VALUES (196,'La','ZM','Zambie','Afrique');
-INSERT INTO "countries" VALUES (197,'Le','ZW','Zimbabwe','Afrique');
+INSERT INTO "countries" ("country_id","article","flag","name","continent") VALUES (1,'L','AF','Afghanistan','Asie'),
+ (2,'L','ZA','Afrique du Sud','Afrique'),
+ (3,'L','AL','Albanie','Europe'),
+ (4,'L','DZ','Algérie','Afrique'),
+ (5,'L','DE','Allemagne','Europe'),
+ (6,'L','AD','Andorre','Europe'),
+ (7,'L','AO','Angola','Afrique'),
+ (8,'L','AG','Antigua-et-Barbuda','Amerique'),
+ (9,'L','SA','Arabie Saoudite','Asie'),
+ (10,'L','AR','Argentine','Amerique'),
+ (11,'L','AM','Arménie','Asie'),
+ (12,'L','AU','Australie','Oceanie'),
+ (13,'L','AT','Autriche','Europe'),
+ (14,'L','AZ','Azerbaïdjan','Asie'),
+ (15,'Les','BS','Bahamas','Amerique'),
+ (16,NULL,'BH','Bahreïn','Asie'),
+ (17,'Le','BD','Bangladesh','Asie'),
+ (18,'La','BB','Barbade','Amerique'),
+ (19,'La','BE','Belgique','Europe'),
+ (20,'Le','BZ','Belize','Amerique'),
+ (21,'Le','BY','Bélarus','Europe'),
+ (22,'Le','BJ','Bénin','Afrique'),
+ (23,'Le','BT','Bhoutan','Asie'),
+ (24,'La','MM','Birmanie','Asie'),
+ (25,'La','BO','Bolivie','Amerique'),
+ (26,'La','BA','Bosnie-Herzégovine','Europe'),
+ (27,'Le','BW','Botswana','Afrique'),
+ (28,'Le','BR','Brésil','Amerique'),
+ (29,'Le','BN','Brunei','Asie'),
+ (30,'La','BG','Bulgarie','Europe'),
+ (31,'Le','BF','Burkina Faso','Afrique'),
+ (32,'Le','BI','Burundi','Afrique'),
+ (33,'Le','KH','Cambodge','Asie'),
+ (34,'Le','CM','Cameroun','Afrique'),
+ (35,'Le','CA','Canada','Amerique'),
+ (36,'Le','CV','Cap-Vert','Afrique'),
+ (37,'La','CF','République Centrafricaine','Afrique'),
+ (38,'Le','CL','Chili','Amerique'),
+ (39,'La','CN','Chine','Asie'),
+ (40,'Le','CY','Chypre','Asie'),
+ (41,'La','CO','Colombie','Amerique'),
+ (42,'Le','KM','Comores','Afrique'),
+ (43,'Le','CG','Congo','Afrique'),
+ (44,'La','CD','République Démocratique du Congo','Afrique'),
+ (45,'La','KP','Corée du Nord','Asie'),
+ (46,'La','KR','Corée du Sud','Asie'),
+ (47,'Le','CR','Costa Rica','Amerique'),
+ (48,'La','CI','Côte d''Ivoire','Afrique'),
+ (49,'La','HR','Croatie','Europe'),
+ (50,NULL,'CU','Cuba','Amerique'),
+ (51,'Le','DK','Danemark','Europe'),
+ (52,NULL,'DJ','Djibouti','Afrique'),
+ (53,'La','DM','Dominique','Amerique'),
+ (54,'La','DO','République dominicaine','Amerique'),
+ (55,'L','EG','Égypte','Afrique'),
+ (56,'Les','EH','Émirats arabes unis','Asie'),
+ (57,'L','EC','Équateur','Amerique'),
+ (58,'L','ER','Érythrée','Afrique'),
+ (59,'L','ES','Espagne','Europe'),
+ (60,'L','EE','Estonie','Europe'),
+ (61,'L','SZ','Eswatini','Afrique'),
+ (62,'Les','US','États-Unis','Amerique'),
+ (63,'L','ET','Éthiopie','Afrique'),
+ (64,'Les','FJ','Fidji','Oceanie'),
+ (65,'La','FI','Finlande','Europe'),
+ (66,'La','FR','France','Europe'),
+ (67,'Le','GA','Gabon','Afrique'),
+ (68,'La','GM','Gambie','Afrique'),
+ (69,'La','GE','Géorgie','Asie'),
+ (70,'Le','GH','Ghana','Afrique'),
+ (71,'La','GR','Grèce','Europe'),
+ (72,'La','GD','Grenade','Amerique'),
+ (73,'Le','GT','Guatemala','Amerique'),
+ (74,'La','GN','Guinée','Afrique'),
+ (75,'La','GW','Guinée-Bissau','Afrique'),
+ (76,'La','GQ','Guinée équatoriale','Afrique'),
+ (77,'Le','GY','Guyana','Amerique'),
+ (78,NULL,'HT','Haïti','Amerique'),
+ (79,'Le','HN','Honduras','Amerique'),
+ (80,'La','HU','Hongrie','Europe'),
+ (81,'Les','CK','Îles Cook','Oceanie'),
+ (82,'Les','SB','Îles Salomon','Oceanie'),
+ (83,'L','IN','Inde','Asie'),
+ (84,'L','ID','Indonésie','Asie'),
+ (85,'L','IQ','Irak','Asie'),
+ (86,'L','IR','Iran','Asie'),
+ (87,'L','IE','Irlande','Europe'),
+ (88,'L','IS','Islande','Europe'),
+ (89,NULL,'IL','Israël','Asie'),
+ (90,'L','IT','Italie','Europe'),
+ (91,'La','JM','Jamaïque','Amerique'),
+ (92,'Le','JP','Japon','Asie'),
+ (93,'La','KE','Jordanie','Asie'),
+ (94,'Le','KZ','Kazakhstan','Asie'),
+ (95,'Le','KE','Kenya','Afrique'),
+ (96,'Le','KG','Kirghizistan','Asie'),
+ (97,NULL,'KI','Kiribati','Oceanie'),
+ (98,'Le','KW','Koweït','Asie'),
+ (99,'Le','LA','Laos','Asie'),
+ (100,'Le','LS','Lesotho','Afrique'),
+ (101,'La','LV','Lettonie','Europe'),
+ (102,'Le','LB','Liban','Asie'),
+ (103,'Le','LR','Liberia','Afrique'),
+ (104,'La','LY','Libye','Afrique'),
+ (105,'Le','LI','Liechtenstein','Europe'),
+ (106,'La','LT','Lituanie','Europe'),
+ (107,'Le','LU','Luxembourg','Europe'),
+ (108,'La','MK','Macédoine du Nord','Europe'),
+ (109,NULL,'MG','Madagascar','Afrique'),
+ (110,'La','MY','Malaisie','Asie'),
+ (111,'Le','MW','Malawi','Afrique'),
+ (112,'Les','MV','Maldives','Asie'),
+ (113,'Le','ML','Mali','Afrique'),
+ (114,NULL,'MT','Malte','Europe'),
+ (115,'Le','MA','Maroc','Afrique'),
+ (116,'Les','MH','Marshall','Oceanie'),
+ (117,NULL,'MU','Maurice','Afrique'),
+ (118,'La','MR','Mauritanie','Afrique'),
+ (119,'Le','MX','Mexique','Amerique'),
+ (120,'La','FM','Micronésie','Oceanie'),
+ (121,'La','MD','Moldavie','Europe'),
+ (122,NULL,'MC','Monaco','Europe'),
+ (123,'La','MN','Mongolie','Asie'),
+ (124,'Le','ME','Monténégro','Europe'),
+ (125,'Le','MZ','Mozambique','Afrique'),
+ (126,'La','NA','Namibie','Afrique'),
+ (127,NULL,'NR','Nauru','Oceanie'),
+ (128,'Le','NP','Népal','Asie'),
+ (129,'Le','NI','Nicaragua','Amerique'),
+ (130,'Le','NE','Niger','Afrique'),
+ (131,'Le','NG','Nigeria','Afrique'),
+ (132,NULL,'NU','Niue','Oceanie'),
+ (133,'La','NO','Norvège','Europe'),
+ (134,'La','NZ','Nouvelle-Zélande','Oceanie'),
+ (135,'L','OM','Oman','Asie'),
+ (136,'L','UG','Ouganda','Afrique'),
+ (137,'L','UZ','Ouzbékistan','Asie'),
+ (138,'Le','PK','Pakistan','Asie'),
+ (139,'Les','PW','Palaos','Oceanie'),
+ (140,'La','PS','Palestine','Asie'),
+ (141,'Le','PA','Panama','Amerique'),
+ (142,'La','PG','Papouasie-Nouvelle-Guinée','Oceanie'),
+ (143,'Le','PY','Paraguay','Amerique'),
+ (144,'Les','NL','Pays-Bas','Europe'),
+ (145,'Le','PE','Pérou','Amerique'),
+ (146,'Les','PH','Philippines','Asie'),
+ (147,'La','PL','Pologne','Europe'),
+ (148,'Le','PT','Portugal','Europe'),
+ (149,'Le','QA','Qatar','Asie'),
+ (150,'La','RO','Roumanie','Europe'),
+ (151,'Le','GB','Royaume-Uni','Europe'),
+ (152,'La','RU','Russie','Europe'),
+ (153,'Le','RW','Rwanda','Afrique'),
+ (154,NULL,'KN','Saint-Christophe-et-Niévès','Amerique'),
+ (155,NULL,'LC','Sainte-Lucie','Amerique'),
+ (156,NULL,'SM','Saint-Marin','Europe'),
+ (157,NULL,'VC','Saint-Vincent-et-les-Grenadines','Amerique'),
+ (158,'Le','SV','Salvador','Amerique'),
+ (159,'Le','SO','Samoa','Oceanie'),
+ (160,NULL,'ST','Sao Tomé-et-Principe','Afrique'),
+ (161,'Le','SN','Sénégal','Afrique'),
+ (162,'La','RS','Serbie','Europe'),
+ (163,'Les','SC','Seychelles','Afrique'),
+ (164,'La','SL','Sierra Leone','Afrique'),
+ (165,NULL,'SG','Singapour','Asie'),
+ (166,'La','SK','Slovaquie','Europe'),
+ (167,'La','SI','Slovénie','Europe'),
+ (168,'La','SO','Somalie','Afrique'),
+ (169,'Le','SD','Soudan','Afrique'),
+ (170,'Le','SS','Soudan du Sud','Afrique'),
+ (171,NULL,'LK','Sri Lanka','Asie'),
+ (172,'La','SE','Suède','Europe'),
+ (173,'La','CH','Suisse','Europe'),
+ (174,'Le','SR','Suriname','Amerique'),
+ (175,'La','SY','Syrie','Asie'),
+ (176,'Le','TJ','Tadjikistan','Asie'),
+ (177,'La','TZ','Tanzanie','Afrique'),
+ (178,'Le','TD','Tchad','Afrique'),
+ (179,'La','CZ','Tchéquie','Europe'),
+ (180,'La','TH','Thaïlande','Asie'),
+ (181,'Le','TL','Timor-Oriental','Asie'),
+ (182,'Le','TG','Togo','Afrique'),
+ (183,'Les','TO','Tonga','Oceanie'),
+ (184,NULL,'TT','Trinité-et-Tobago','Amerique'),
+ (185,'La','TN','Tunisie','Afrique'),
+ (186,'Le','TM','Turkménistan','Asie'),
+ (187,'La','TR','Turquie','Europe'),
+ (188,'Les','TV','Tuvalu','Oceanie'),
+ (189,'L','UA','Ukraine','Europe'),
+ (190,'L','UY','Uruguay','Amerique'),
+ (191,'Le','VU','Vanuatu','Oceanie'),
+ (192,'Le','VA','Vatican','Europe'),
+ (193,'Le','VE','Venezuela','Amerique'),
+ (194,'Le','VN','Viêt Nam','Asie'),
+ (195,'Le','YE','Yémen','Asie'),
+ (196,'La','ZM','Zambie','Afrique'),
+ (197,'Le','ZW','Zimbabwe','Afrique');
