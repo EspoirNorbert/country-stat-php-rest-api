@@ -24,24 +24,21 @@ $route->mount("/api/country/stats", function () use ($route) {
     $route->get('/countries/count', function () {
         (new CountryRessource)->getTotalCountry();
     });
+
+    $route->get('/countries/articles', function () {
+        (new CountryRessource)->getCountryArticleIsNull();
+    });
+
+    $route->get('/countries/count/articles', function () {
+        (new CountryRessource)->getTotalCountryWithoutArticle();
+    });
+
     $route->get('/countries/articles/([a-zA-Z]+)', function ($article) {
         (new CountryRessource)->getCountryByArticle($article);
     });
 
     $route->get('/countries/articles/([a-zA-Z]+)/count', function ($article) {
         (new CountryRessource)->getTotalCountryByArticle($article);
-    });
-
-    $route->get('/countries/articles', function () {
-        (new CountryRessource)->getCountryWithoutArticle();
-    });
-
-    $route->get('/countries/articles/count', function () {
-        (new CountryRessource)->getTotalCountryWithoutArticle();
-    });
-
-    $route->get('/countries/articles', function () {
-        (new CountryRessource)->getTotalCountryWithoutArticle();
     });
 
     $route->get('/countries/continents/([a-zA-Z]+)', function ($continent) {

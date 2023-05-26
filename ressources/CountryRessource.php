@@ -2,7 +2,6 @@
 
 namespace Ressources;
 
-use Core\Helper;
 use Models\Country;
 
 class CountryRessource extends Ressource
@@ -12,9 +11,9 @@ class CountryRessource extends Ressource
         try {
             parent::get();
             $this->response([
-                "message" => "Bienvenue dans l'API de country Article stats",
+                "message" => "Welcome to Country Article Stat PHP REST API",
                 "version" => 1.0,
-                "docs" => 1.0,
+                "docs" => "https://documenter.getpostman.com/view/13279411/2s93m6128o",
             ], 200);
         } catch (\Throwable $e) {
             $this->handle_error($e);
