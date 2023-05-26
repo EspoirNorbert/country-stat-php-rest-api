@@ -1,17 +1,3 @@
-DROP TABLE IF EXISTS countries;
-
-# ------------------------------------
-CREATE TABLE IF NOT EXISTS "countries" (
-	"country_id"	INTEGER,
-	"article"	,
-	"flag"	TEXT,
-	"name"	TEXT NOT NULL,
-	"continent"	TEXT,
-	PRIMARY KEY("country_id" AUTOINCREMENT)
-);
-# --------------------------------------------
-
-# -------------------------------------------
 INSERT INTO "countries" VALUES (1,'L','AF','Afghanistan','Asie');
 INSERT INTO "countries" VALUES (2,'L','ZA','Afrique du Sud','Afrique');
 INSERT INTO "countries" VALUES (3,'L','AL','Albanie','Europe');
@@ -209,6 +195,3 @@ INSERT INTO "countries" VALUES (194,'Le','VN','Viêt Nam','Asie');
 INSERT INTO "countries" VALUES (195,'Le','YE','Yémen','Asie');
 INSERT INTO "countries" VALUES (196,'La','ZM','Zambie','Afrique');
 INSERT INTO "countries" VALUES (197,'Le','ZW','Zimbabwe','Afrique');
-
-# -------------------------------------------
-
