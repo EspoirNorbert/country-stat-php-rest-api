@@ -66,6 +66,21 @@ class CountryRessource extends Ressource
         }
     }
 
+     /***
+     * Get All country from databases
+     */
+    public function getCountryArticleIsNull(): void
+    {
+        try {
+            parent::get();
+            $countries = Country::findByArticleWithout();
+            $this->response($countries, 200);
+        } catch (\Throwable $e) {
+            $this->handle_error($e);
+        }
+    }
+
+
     /***
      * Get Total count by article
      */
